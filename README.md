@@ -7,8 +7,30 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Front-End+Web+Developer;Always+Learning+New+Things;Building+Creative+Websites" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I'm+Mohamed+Ibrahim;Front-End+Web+Developer;Always+Learning+New+Things;Building+Creative+Websites" />
 </p>
+
+<p align="center">
+
+<a href="mailto:ebrhemmohamed07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MohamedEb7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@iphone77739">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1KdQR5aChP/?mibextid=wwXIfr">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
 ---
 
@@ -17,8 +39,10 @@
 ```javascript
 const mohamed = {
     name: "Mohamed Ibrahim",
+    username: "MohamedEb7",
     country: "Egypt 🇪🇬",
     age: 14,
+
     role: "Front-End Web Developer",
 
     languages: [
@@ -47,84 +71,14 @@ const mohamed = {
         "Learning New Technologies"
     ],
 
+    projects: [
+        "Hamo Games",
+        "HTML Games",
+        "Calculator",
+        "Login System"
+    ],
+
+    email: "ebrhemmohamed07@gmail.com",
+
     goal: "Become a Professional Full-Stack Web Developer 🚀"
 }
-```
-
----
-
-# 🚀 Skills
-
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-🚀 Hamo Games
-
-🎮 HTML Games
-
-🧮 Calculator Project
-
-🌐 Login System
-
----
-
-# 📫 Contact Me
-
-📧 Email: **<a href="mailto:ebrhemmohamed07@gmail.com">ebrhemmohamed07@gmail.com</a>**
-
-🌍 Portfolio: Coming Soon...
-
-💙 GitHub:
-https://github.com/YOUR_USERNAME
-
----
-
-# ⚡ Fun Fact
-
-```javascript
-while(alive){
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
-
-</p>
