@@ -1,97 +1,241 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="#">######
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower"><img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" /></a>
-  <a href="https://jacobcolvin.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com"></a>
-  <a href="https://stackoverflow.com/users/4868262"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow"></a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube"></a>
-  <a href="https://github.com/MacroPower?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github"></a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://awesome.re/mentioned-badge.svg"></a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<a href="#macropower-title"><img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+### 📫 Like to meet me?
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<br>
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+👇 Hit in your console or terminal to connect with me.
 
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/go-original.svg" width="48" height="48" alt="Golang" /></a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/kcl-icon-color.svg" width="48" height="48" alt="KCL" /></a>
-      <br>KCL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /></a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /></a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/dagger.svg" width="48" height="48" alt="Dagger" /></a>
-      <br>Dagger
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/nixos-original.svg" width="48" height="48" alt="Nix" /></a>
-      <br>Nix
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/tmux.svg" width="48" height="48" alt="Tmux" /></a>
-      <br>tmux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="./img/neovim-original.svg" width="48" height="48" alt="Neovim" /></a>
-      <br>nvim
-    </td>
-  </tr>
-</table>
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
+```bash
+npx anmol
 ```
-  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.6 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.5 hr  ┤│                                                                                                   
-  2204.4 hr  ┤│                                                                                                   
-  2204.4 hr  ┼╯                                                                                                   
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+  name: "Anmol Pratap Singh",
+  pronouns: ["he", "him"],
+  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
+  askMeAbout: [
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "agentic systems",
+    "SaaS products",
+    "system design"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      uiLibraries: [
+        "Material UI",
+        "Ant Design",
+        "Chakra UI",
+        "shadcn/ui"
+      ]
+    },
+
+    backend: {
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["Flask"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+      practices: ["CI/CD", "Infrastructure as Code"]
+    },
+
+    cloud: {
+      aws: [
+        "EC2",
+        "S3",
+        "RDS",
+        "Lambda",
+        "Fargate",
+        "CloudWatch"
+      ],
+      gcp: [
+        "Compute Engine",
+        "Cloud Run",
+        "Cloud Functions",
+        "Cloud Storage",
+        "Firestore",
+        "BigQuery"
+      ]
+    },
+
+    databases: {
+      relational: ["PostgreSQL"],
+      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      inMemory: ["Redis"]
+    },
+
+    realtimeAndAPIs: [
+      "REST APIs",
+      "WebSockets",
+      "Socket.IO"
+    ],
+
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "Vector databases",
+        "AI agents",
+        "Workflow automation"
+      ],
+      architectures: [
+        "agentic architecture",
+        "tool-augmented agents",
+        "multi-agent systems"
+      ],
+      models: ["OpenAI", "Gemini", "Llama"]
+    }
+  },
+
+  architecture: {
+    frontend: ["SPA", "SSR"],
+    backend: ["monolith", "microservices", "serverless"],
+    cloudPatterns: [
+      "event-driven",
+      "agentic systems",
+      "scalable SaaS"
+    ],
+    data: ["relational", "nosql", "in-memory"]
+  },
+currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
+funFact: "Most bugs disappear after a coffee and a clean commit history"
+};
 ```
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<!-- links -->
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C352%20hrs%2042%20mins-blue?style=flat)
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2010%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-376-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.63%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 391.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 784 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 33 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2375 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+🌆 Daytime                4640 commits        ████████░░░░░░░░░░░░░░░░░   33.32 % 
+🌃 Evening                4822 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌙 Night                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Tuesday                  2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Wednesday                2009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Thursday                 1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Friday                   1482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Saturday                 2059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Sunday                   3128 commits        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               2 hrs 36 mins       █████████████░░░░░░░░░░░░   53.23 % 
+JSON                     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+
+🔥 Editors: 
+Claude Code              4 hrs 4 mins        █████████████████████░░░░   83.34 % 
+WebStorm                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+💻 Operating System: 
+Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 26 mins (90.58%)
+
+✍️ 2,670 lines written by AI, 47 lines written by hand (98.27% AI-written)
+
+🔤 183,417,294 Input Tokens, 455,049 Output Tokens
+
+💵 $553.78 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 39 AI Prompts
+
+Sonnet                   2,771 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.27% of written lines came from AI
+📚 Verbose Prompter — average 2,851 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.7% of changed lines were hand-edited
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+```
+
+
+
+
+ Last Updated on 28/07/2026 03:53:41 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
