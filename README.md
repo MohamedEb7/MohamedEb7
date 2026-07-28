@@ -99,7 +99,7 @@ const mohamed = {
 
 # 📫 Contact Me
 
-📧 Email: your@email.com
+📧 Email: **<a href="mailto:ebrhemmohamed07@gmail.com">ebrhemmohamed07@gmail.com</a>**
 
 🌍 Portfolio: Coming Soon...
 
